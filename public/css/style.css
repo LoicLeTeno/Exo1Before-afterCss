@@ -40,9 +40,7 @@ h1:after {
 /* Exo 3 */
 #exo3>h1::after {
     position: relative;
-
-    border-bottom: solid 5px red;
-
+    
     transform: scaleY(0);
     transform-origin:bottom;
     transition: transform 1s ease;
